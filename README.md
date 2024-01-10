@@ -8,3 +8,4 @@ Wprowadzone zmiany:
 
 03.01.2023 - dodanie opisu sposobu wymiany informacji między klientami poprzez serwer
 
+10.01.2023 - dodanie przykładowej klasy do przesyłania informacji + opisu wymiany
